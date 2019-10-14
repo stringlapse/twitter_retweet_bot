@@ -1,4 +1,4 @@
-import twitter, secrets
+import tweepy, secrets
 
 bot_user_id = XXXXX
 
