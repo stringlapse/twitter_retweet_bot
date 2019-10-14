@@ -1,6 +1,6 @@
 import twitter, secrets
 
-bot_user_id = "XXXXX"
+bot_user_id = XXXXX
 
 api = secrets.login()
 
